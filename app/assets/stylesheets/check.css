@@ -1,0 +1,25 @@
+
+.big {
+  background-image: url(top-secret.jpg);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+form {
+  max-height: 250px;
+  min-height: 150px;
+  max-width: 150px;
+  background-color: grey;
+  color: white;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+}
